@@ -1,0 +1,60 @@
+.leafrake 
+{
+    text-align: left;
+}
+.Gardencart
+{
+    text-align:left;
+}
+.hammer
+{
+    text-align:left;
+}
+.saw
+{
+    text-align:left;
+}
+.btn-outline-secondary
+{
+   
+    background-color : pink;
+    width : 50px;
+    height:30px;
+    
+}
+div 
+{
+    color : rgb(180, 16, 43);
+    
+}
+#para1 
+{
+    float: left;
+    width : 200px;
+    height : 200px;
+}
+#paraespresso
+{
+    float : right;
+    width : 200px;
+    height : 200px;
+}
+#para2 
+{
+    float : right;
+    width : 200px;
+    height : 200px;
+}
+#para3 
+{
+    float : left;
+    width : 200px;
+    height : 200px;
+}
+#para4
+{
+    float : right;
+    width : 200px;
+    height : 200px;
+}
+

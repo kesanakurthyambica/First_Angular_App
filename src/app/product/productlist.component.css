@@ -1,0 +1,35 @@
+table 
+{
+    color : blue;
+    
+}
+div 
+{
+    color : green;
+    text-align-last: center;
+}
+td 
+{
+   
+    color: black;
+    font-size:small;
+    text-align-last: left;
+}
+th{
+    text-align:center;
+}
+#para1 {
+     color : Red;
+}
+button 
+{
+    background-color: palegreen;
+}
+#para2
+{
+    float: right;
+}
+#para3
+{
+    float: left;
+}

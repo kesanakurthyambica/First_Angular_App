@@ -1,0 +1,33 @@
+body 
+{
+    align : center;
+    max-block-size: 500px;
+    width:550px;
+     height:500px;
+}
+  
+#para1
+{
+    width:300px;
+    height : 20px;
+}
+#para2
+{
+    color  : blue;
+    text-align : right;
+}
+#para3
+{
+    background-color : pink;
+    align :left;
+}
+#para4
+{
+    background-color : pink;
+    align : left;
+}
+#para5 
+{
+    text-align-last : left;
+    font-size: 12px;
+}
